@@ -1,9 +1,9 @@
 <!Docoment HtML>
 <HTML>
 <head>
-<title>APNA PUNJAB COLLAGE</title>
+<title>hasnainpervezmalik</title> 
 </head>
 <body>
-<h1>Hasnainpervezmalik>!</h1>
+<h1>apna punjab colleage >!</h1>
 </body>
 </HTML>
