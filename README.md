@@ -2,7 +2,7 @@
 ## well come  👋
 
 <!--
-**hasnainpervezmalik/hasnainpervezmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi I'm Husnain Pervez  👋** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ##  Hi I'm Husnain Pervez  👋
 I'm here to learn new  coding......
 Here are some ideas to get you started:
